@@ -1,1 +1,1 @@
-> <h1> Practica repositorio en git</h1> 
+<h1> Practica repositorio en git</h1> 
